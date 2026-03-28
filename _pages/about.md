@@ -9,10 +9,10 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>**Student At:** Purdue University - West Lafayette</p>
-    <p>**Based In:** Bloomington, IN</p>
+    <p><b>Student At:</b> Purdue University - West Lafayette</p>
+    <p><b>Citizen Status:</b>US Citizen</p>
     
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,3 +27,5 @@ latest_posts:
 ---
 
 Hello! My name is Rebekah Mou. I am a junior at Purdue University majoring in Biomedical Engineering and getting a minor in Computer Science. I hope to be able to combine my engineering background and programming skills to create user-focused, technologically backed, healthcare solutions.
+
+I am currently seeking summer 2026 internship positions related to medical device development, programming, and/or biomedical consulting. Feel free to reach out to my socials linked below!
