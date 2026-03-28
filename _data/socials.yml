@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 resume_pdf: /assets/pdf/Rebekah_Mou_Resume.pdf # path to your CV PDF file
 email: mour@purdue.edu # your email address
-linkedin_username: rebekah_mou
+# linkedin_username: rebekah_mou
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
