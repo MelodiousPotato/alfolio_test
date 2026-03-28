@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hello World! My portfolio is up and running!
+Hello World! My portfolio is up and running! :sparkles:
