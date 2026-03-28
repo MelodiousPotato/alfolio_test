@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "MelodiousPotato/Rebekah_Mou_Portfolio",
+    "data-repo": "MelodiousPotato/MelodiousPotato.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
